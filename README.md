@@ -111,7 +111,8 @@ MORE = 1085<br>
 MONEY = 10652<br>
 <hr>
 <h1>OUTPUT</h1>
-![WhatsApp Image 2025-10-23 at 18 59 41_f916de3f](https://github.com/user-attachments/assets/55cae407-64e4-45da-be6e-cc1370e939a9)
 
+![WhatsApp Image 2025-10-23 at 18 59 41_f916de3f](https://github.com/user-attachments/assets/55cae407-64e4-45da-be6e-cc1370e939a9)
+<hr>
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
